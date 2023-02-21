@@ -11,3 +11,7 @@
     width: 450px;
     height: 410px;
 }
+.gallery{
+    display: flex;
+    justify-content: space-around;
+}
